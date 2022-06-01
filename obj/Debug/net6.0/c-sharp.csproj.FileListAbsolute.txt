@@ -1,0 +1,15 @@
+/Users/morisseau/code/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/morisseau/code/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/morisseau/code/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/morisseau/code/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/morisseau/code/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/morisseau/code/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
